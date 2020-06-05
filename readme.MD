@@ -3,11 +3,11 @@
 ## Instalacion 🚀
 
 ```js
-git clone project
+git clone https://github.com/cristihandev/sim.git
 ```
 
 ## Part 1 🔥
 
 ```js
-git checkout p1-script
+git checkout master
 ```
