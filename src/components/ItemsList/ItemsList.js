@@ -26,7 +26,10 @@ ItemsList.propTypes = {
 };
 
 export default React.memo(ItemsList, (prevProps, nextProps) => {
-  if (prevProps.selectedItems.length === nextProps.selectedItems.length) {
+  if (
+    prevProps.selectedItems.length === nextProps.selectedItems.length &&
+    prevProps.items.length === nextProps.items.length
+  ) {
     return true;
   }
   return false;
