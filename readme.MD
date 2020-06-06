@@ -11,3 +11,21 @@ git clone https://github.com/cristihandev/sim.git
 ```js
 git checkout master
 ```
+
+## Part 2 🔥
+
+```js
+git checkout part-2 
+```
+
+Install depedencies
+
+```js
+npm i
+```
+
+Run App
+
+```js
+npm run dev
+```
