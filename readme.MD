@@ -29,3 +29,20 @@ Run App
 ```js
 npm run dev
 ```
+## Part 3 🔥
+
+```js
+git checkout part-3 
+```
+
+Install depedencies
+
+```js
+npm i
+```
+
+Run App
+
+```js
+npm run dev
+```
